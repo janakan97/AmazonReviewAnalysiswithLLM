@@ -1,2 +1,2 @@
 # AmazonReviewAnalysiswithLLM
-The project investigates the use of Large Language Models (LLMs) for sentiment analysis on  Amazon reviews.
+The project investigates the use of Large Language Models (LLMs) for sentiment analysis on  Amazon reviews with a limit of 5000. It focuses on finding a suitable LLM for sentiment analysis and comparing its performance with traditional machine learning models. This study provides insights into the efficacy of LLMs for sentiment analysis, offering valuable comparisons with traditional approaches.
